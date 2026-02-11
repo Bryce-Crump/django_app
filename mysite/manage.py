@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+# cd mysite
+# source .venv/bin/activate
+
+
+
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
